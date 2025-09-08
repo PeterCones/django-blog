@@ -18,3 +18,10 @@ assignees: ''
 ## So that...
 
 *received benefit*
+
+## Acceptence Criteria
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
