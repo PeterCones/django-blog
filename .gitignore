@@ -3,3 +3,4 @@ env.py
 __pycache__/
 codestar/__pycache__/
 *.pyc
+blog/fixtures/
