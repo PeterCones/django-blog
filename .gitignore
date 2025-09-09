@@ -1,6 +1,5 @@
 .venv/
 env.py
-
 __pycache__/
-*.pyc
 codestar/__pycache__/
+*.pyc
