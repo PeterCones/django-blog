@@ -1,1 +1,0 @@
-console.log("Testing static file serving")
