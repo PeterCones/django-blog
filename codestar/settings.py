@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'codestar',
     'blog',
+    'about',
     'django_summernote',
 ]
 
